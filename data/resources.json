@@ -1,0 +1,14 @@
+[
+  {"title":"Python Tutorial","type":"Documentation","provider":"Python.org","url":"https://docs.python.org/3/tutorial/","level":"Beginner","estimated_hours":6,"skills":["Python"]},
+  {"title":"FastAPI Tutorial","type":"Documentation","provider":"FastAPI","url":"https://fastapi.tiangolo.com/tutorial/","level":"Beginner","estimated_hours":4,"skills":["FastAPI"]},
+  {"title":"Docker Get Started","type":"Documentation","provider":"Docker","url":"https://docs.docker.com/get-started/","level":"Beginner","estimated_hours":4,"skills":["Docker"]},
+  {"title":"Google Machine Learning Crash Course","type":"Course","provider":"Google","url":"https://developers.google.com/machine-learning/crash-course","level":"Beginner","estimated_hours":15,"skills":["Machine Learning","Statistics"]},
+  {"title":"Hugging Face Course","type":"Course","provider":"Hugging Face","url":"https://huggingface.co/learn","level":"Intermediate","estimated_hours":20,"skills":["LLM/RAG","Deep Learning"]},
+  {"title":"LangGraph Documentation","type":"Documentation","provider":"LangChain","url":"https://docs.langchain.com/oss/python/langgraph/overview","level":"Intermediate","estimated_hours":5,"skills":["Agents","LLM/RAG"]},
+  {"title":"FAISS Documentation","type":"Documentation","provider":"Meta","url":"https://faiss.ai/","level":"Intermediate","estimated_hours":3,"skills":["Vector Databases","Embeddings"]},
+  {"title":"OpenAI Evals Guide","type":"Guide","provider":"OpenAI","url":"https://platform.openai.com/docs/guides/evals","level":"Intermediate","estimated_hours":4,"skills":["LLM Evaluation"]},
+  {"title":"SQL Tutorial","type":"Documentation","provider":"PostgreSQL","url":"https://www.postgresql.org/docs/current/tutorial.html","level":"Beginner","estimated_hours":8,"skills":["SQL"]},
+  {"title":"Microsoft Learn Power BI","type":"Course","provider":"Microsoft","url":"https://learn.microsoft.com/training/powerplatform/power-bi/","level":"Beginner","estimated_hours":10,"skills":["Power BI","Data Visualization"]},
+  {"title":"Git Book","type":"Book/Guide","provider":"Git SCM","url":"https://git-scm.com/book/en/v2","level":"Beginner","estimated_hours":5,"skills":["Git"]},
+  {"title":"Made With ML","type":"Course","provider":"Made With ML","url":"https://madewithml.com/","level":"Advanced","estimated_hours":20,"skills":["MLOps","Machine Learning"]}
+]
