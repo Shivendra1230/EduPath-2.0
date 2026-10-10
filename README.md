@@ -6,6 +6,13 @@ Turn skill gaps into personalized learning paths with AI-powered
 career coaching, source-grounded learning, interview preparation,
 and adaptive progress tracking.
 
+
+🚀 Live Application
+
+Try the deployed application here:
+
+Live Demo: https://edupath-20-gmr9a7w2fherjmjgk6ggej.streamlit.app/
+
 Built using **Python, Streamlit, LangGraph, Groq, and SQLite**, EduPath combines deterministic skill-gap analysis with AI-assisted coaching and source-grounded learning.
 
 ---
@@ -349,6 +356,18 @@ Contributions are welcome.
 4. Submit a pull request describing the changes and validation performed.
 
 Please avoid committing API keys, personal learner data, database files, or other sensitive information.
+
+🎯 Project Goals
+
+EduPath 2.0 aims to make AI-assisted learning more personalized, structured, and career-focused by connecting learning activities with practical skill development.
+
+👨‍💻 Developer
+
+Shivendra Pratap Singh
+
+GitHub:  https://github.com/Shivendra1230
+
+LinkedIn: www.linkedin.com/in/shivendra-pratap-singh-8bab22237
 
 ## 📄 License
 
